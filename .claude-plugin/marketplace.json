@@ -1,0 +1,41 @@
+{
+  "name": "bottomless",
+  "owner": {
+    "name": "Julian Angst (Bottomless)"
+  },
+  "metadata": {
+    "description": "Free Claude skills from the Bottomless catalog: fixed rules, a limits section, no invented numbers."
+  },
+  "plugins": [
+    {
+      "name": "error-oracle",
+      "source": "./plugins/error-oracle",
+      "description": "Paste an error message. Get back which line is to blame and what to do next."
+    },
+    {
+      "name": "skill-checker",
+      "source": "./plugins/skill-checker",
+      "description": "You paste a SKILL.md. You get back whether you should install it, before an agent does."
+    },
+    {
+      "name": "migration-checker",
+      "source": "./plugins/migration-checker",
+      "description": "You paste your migration. You get back what it locks, for how long, and how to get back if it goes wrong."
+    },
+    {
+      "name": "pipeline-diagnosis",
+      "source": "./plugins/pipeline-diagnosis",
+      "description": "You paste your data pipeline's error message. You get back which stage is at fault and what to check next."
+    },
+    {
+      "name": "query-smith",
+      "source": "./plugins/query-smith",
+      "description": "Paste your table schema and ask in plain English. Get the matching SQL query."
+    },
+    {
+      "name": "cve-triage",
+      "source": "./plugins/cve-triage",
+      "description": "You paste a CVE report and your stack. You get back whether it affects you — in one sentence, not security jargon."
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "migration-checker",
+  "version": "1.0.0",
+  "description": "You paste your migration. You get back what it locks, for how long, and how to get back if it goes wrong.",
+  "author": {
+    "name": "Julian Angst (Bottomless)"
+  },
+  "homepage": "https://botforge-5lo1.onrender.com/beispiele/migrations-pruefer-en?utm_source=github&utm_campaign=gh-marketplace",
+  "license": "CC-BY-NC-4.0"
+}

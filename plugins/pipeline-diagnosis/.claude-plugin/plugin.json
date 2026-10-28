@@ -1,0 +1,10 @@
+{
+  "name": "pipeline-diagnosis",
+  "version": "1.0.0",
+  "description": "You paste your data pipeline's error message. You get back which stage is at fault and what to check next.",
+  "author": {
+    "name": "Julian Angst (Bottomless)"
+  },
+  "homepage": "https://botforge-5lo1.onrender.com/beispiele/pipeline-diagnose-en?utm_source=github&utm_campaign=gh-marketplace",
+  "license": "CC-BY-NC-4.0"
+}

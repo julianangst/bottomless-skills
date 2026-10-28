@@ -1,0 +1,10 @@
+{
+  "name": "query-smith",
+  "version": "1.0.0",
+  "description": "Paste your table schema and ask in plain English. Get the matching SQL query.",
+  "author": {
+    "name": "Julian Angst (Bottomless)"
+  },
+  "homepage": "https://botforge-5lo1.onrender.com/beispiele/query-smith-en?utm_source=github&utm_campaign=gh-marketplace",
+  "license": "CC-BY-NC-4.0"
+}

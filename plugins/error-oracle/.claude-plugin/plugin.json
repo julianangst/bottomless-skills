@@ -1,0 +1,10 @@
+{
+  "name": "error-oracle",
+  "version": "1.0.0",
+  "description": "Paste an error message. Get back which line is to blame and what to do next.",
+  "author": {
+    "name": "Julian Angst (Bottomless)"
+  },
+  "homepage": "https://botforge-5lo1.onrender.com/beispiele/error-oracle-en?utm_source=github&utm_campaign=gh-marketplace",
+  "license": "CC-BY-NC-4.0"
+}
